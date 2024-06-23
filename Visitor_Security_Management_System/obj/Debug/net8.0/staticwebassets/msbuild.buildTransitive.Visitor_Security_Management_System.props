@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Visitor_Security_Management_System.props" />
+</Project>
