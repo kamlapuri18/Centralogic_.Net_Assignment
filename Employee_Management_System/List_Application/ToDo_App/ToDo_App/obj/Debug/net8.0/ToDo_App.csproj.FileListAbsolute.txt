@@ -1,0 +1,14 @@
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\bin\Debug\net8.0\ToDo_App.exe
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\bin\Debug\net8.0\ToDo_App.deps.json
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\bin\Debug\net8.0\ToDo_App.runtimeconfig.json
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\bin\Debug\net8.0\ToDo_App.dll
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\bin\Debug\net8.0\ToDo_App.pdb
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.AssemblyInfoInputs.cache
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.AssemblyInfo.cs
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.csproj.CoreCompileInputs.cache
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.dll
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\refint\ToDo_App.dll
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.pdb
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ToDo_App.genruntimeconfig.cache
+C:\Users\ksudh\source\repos\ToDo_App\ToDo_App\obj\Debug\net8.0\ref\ToDo_App.dll
