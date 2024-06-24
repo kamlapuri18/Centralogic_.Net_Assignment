@@ -8,6 +8,7 @@ namespace Employee_Management_System.DTO
     {
 
         [JsonProperty(PropertyName = "uId", NullValueHandling = NullValueHandling.Ignore)]
+
         public string UId { get; set; }
 
         [JsonProperty(PropertyName = "salutory", NullValueHandling = NullValueHandling.Ignore)]
