@@ -85,12 +85,12 @@ namespace Visitor_Security_Clearance_System.Service
 
         private async Task SendPassEmail(string recipientEmail, byte[] pdfBytes)
         {
-           
+
             string apiKey = "";
 
             var client = new SendGridClient(apiKey);
 
-      
+
             var msg = new SendGridMessage
             {
                 From = new EmailAddress("sudhanshu9939@gmail.com", "Sudhanshu"),
@@ -101,9 +101,9 @@ namespace Visitor_Security_Clearance_System.Service
             };
             msg.AddTo(new EmailAddress("sudhanshu123@gmail.com"));
 
-            
-         msg.AddAttachment("Visitor_Pass.pdf", Convert.ToBase64String(pdfBytes), "application/pdf", "attachment");
-         
+
+            msg.AddAttachment("Visitor_Pass.pdf", Convert.ToBase64String(pdfBytes), "application/pdf", "attachment");
+
 
             var response = await client.SendEmailAsync(msg);
             Console.WriteLine(response);

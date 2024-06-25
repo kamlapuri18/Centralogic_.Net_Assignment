@@ -25,7 +25,7 @@ namespace Visitor_Security_Clearance_System.Service
             security.Role = securityDTO.Role;
 
 
-            security.Intialize(true, Credentials.SecurityDocumentType, "Kunal", "Kunal");
+            security.Intialize(true, Credentials.SecurityDocumentType, "Sudh", "Sudh");
 
 
             var response = await _cosmosDBService.RegisterSecurity(security);
@@ -79,7 +79,7 @@ namespace Visitor_Security_Clearance_System.Service
             existingSecurity.Archived = true;
             await _cosmosDBService.ReplaceAsync(existingSecurity);
 
-            existingSecurity.Intialize(false, Credentials.SecurityDocumentType, "Kunal", "Kunal");
+            existingSecurity.Intialize(false, Credentials.SecurityDocumentType, "Sudh", "Sudh");
 
 
 
@@ -112,7 +112,7 @@ namespace Visitor_Security_Clearance_System.Service
             security.Archived = true;
             await _cosmosDBService.ReplaceAsync(security);
 
-            security.Intialize(false, Credentials.SecurityDocumentType, "Kunal", "Kunal");
+            security.Intialize(false, Credentials.SecurityDocumentType, "Sudh", "Sudh");
             security.Archived = true;
 
            
