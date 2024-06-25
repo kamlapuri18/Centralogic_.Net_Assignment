@@ -34,7 +34,7 @@ namespace Employee_Management_System.Common
             }
         }
 
-        public static async Task<string> MakeGetRequest(string baseUrl, string endpoint, string apiRequestData)
+        public static async Task<string> MakeGetRequest(string baseUrl, string endpoint)
         {
             var socketsHandler = new SocketsHttpHandler
             {
@@ -57,11 +57,6 @@ namespace Employee_Management_System.Common
                 }
                 return responseString;
             }
-        }
-
-        internal static async Task<string> MakeGetRequest(string employeeUrl, string addEmployeeEndpoint)
-        {
-            throw new NotImplementedException();
         }
     }
 }

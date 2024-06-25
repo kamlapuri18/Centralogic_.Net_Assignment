@@ -127,7 +127,7 @@ namespace Employee_Management_System.Services
         public async Task<List<EmployeeBasicDTO>> GetAllStudentByMakeGetRequest()
         {
             var request = await HttpClientHelper.MakeGetRequest(Credentials.EmployeeUrl, Credentials.GetEmployeeEndpoint);
-            return JsonConvert.DeserializeObject<List< EmployeeBasicDTO>>(request);
+            return JsonConvert.DeserializeObject<List<EmployeeBasicDTO>>(request);
         }
     }
 }

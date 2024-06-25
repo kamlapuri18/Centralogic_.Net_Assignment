@@ -9,22 +9,24 @@ using Employee_Management_System.Interfaces;
 
 namespace Employee_Management_System.Controllers
 {
+    [Route("api/[controller]/[Action]")]
+    [ApiController]
+
     public class ImportExport : Controller
 
     {
-        private readonly IEmployeeBasicService _employeeBasicDetailsService;
-        private readonly IMapper _mapper;
-
-
+        private readonly IEmployeeBasicService _employeeBasicService;
+        private readonly IEmployeeAdditionalService _employeeAdditionalService;
+        
+        public ImportExport(IEmployeeBasicService employeeBasicService, IEmployeeAdditionalService employeeAdditionalService)
+        {
+            _employeeBasicService = employeeBasicService;
+            _employeeAdditionalService = employeeAdditionalService;
+        }
 
         [HttpPost("ImportExcel")]
         public async Task<IActionResult> ImportExcel(IFormFile formFile)
         {
-            if (formFile == null || formFile.Length == 0)
-            {
-                return BadRequest("File is empty");
-            }
-
             var employees = new List<EmployeeBasicDTO>();
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
@@ -71,7 +73,7 @@ namespace Employee_Management_System.Controllers
                         };
 
 
-                        var addedEmployee = await _employeeBasicDetailsService.AddEmployeeBasicDetails(employee);
+                        var addedEmployee = await _employeeBasicService.AddEmployeeBasicDetails(employee);
                         employees.Add(addedEmployee);
                     }
                 }
@@ -90,31 +92,14 @@ namespace Employee_Management_System.Controllers
         public async Task<IActionResult> Export()
         {
 
-            var basicDetails = await _employeeBasicDetailsService.GetAllEmployeeBasicDetails();
-
-
-            var dataToExport = basicDetails.Select(basic => new EmployeeBasicDTO
-            {
-                EmployeeID = basic.EmployeeID,
-                FirstName = basic.FirstName,
-                LastName = basic.LastName,
-                Email = basic.Email,
-                Mobile = basic.Mobile,
-                ReportingManagerName = basic.ReportingManagerName
-            }).ToList();
-
-
-            if (!dataToExport.Any())
-            {
-                return NotFound("No data found to export.");
-            }
+            var basicDetails = await _employeeBasicService.GetAllEmployeeBasicDetails();
+            
 
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             using (var package = new ExcelPackage())
             {
                 var worksheet = package.Workbook.Worksheets.Add("Employees");
 
-                // Add Header
                 worksheet.Cells[1, 1].Value = "Sr.No";
                 worksheet.Cells[1, 2].Value = "First Name";
                 worksheet.Cells[1, 3].Value = "Last Name";
@@ -122,17 +107,8 @@ namespace Employee_Management_System.Controllers
                 worksheet.Cells[1, 5].Value = "Phone No";
                 worksheet.Cells[1, 6].Value = "Reporting Manager Name";
 
-                // Header 
-                using (var range = worksheet.Cells[1, 1, 1, 6])
-                {
-                    range.Style.Font.Bold = true;
-                    range.Style.Fill.PatternType = ExcelFillStyle.Solid;
-                    range.Style.Fill.BackgroundColor.SetColor(Color.LightGreen);
-                }
-
-                //data rows
                 var rowIndex = 2;
-                foreach (var data in dataToExport)
+                foreach (var data in basicDetails)
                 {
                     worksheet.Cells[rowIndex, 1].Value = data.EmployeeID;
                     worksheet.Cells[rowIndex, 2].Value = data.FirstName;
@@ -143,13 +119,11 @@ namespace Employee_Management_System.Controllers
                     rowIndex++;
                 }
 
-                // Save Excel 
                 var stream = new MemoryStream();
                 package.SaveAs(stream);
                 stream.Position = 0;
 
-                // Return the Excel response
-                var fileName = "Employee.xlsx";
+                var fileName = "Employeeinformation.xlsx";
                 return File(stream, "application/vnd.openxmlformats-document.spreadsheetml.sheet", fileName);
             }
         }

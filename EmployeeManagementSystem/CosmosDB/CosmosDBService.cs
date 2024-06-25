@@ -11,7 +11,7 @@ namespace Employee_Management_System.CosmosDB
     public class CosmosDBService : ICosmosDBService
     {
 
-        public Container _container;
+        public readonly Container _container;
 
         public CosmosDBService()
         {
