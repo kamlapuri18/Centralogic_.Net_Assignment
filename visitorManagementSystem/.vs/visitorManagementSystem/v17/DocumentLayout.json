@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\interfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\interfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\interfaces\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\interfaces\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\entities\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\entities\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\controllers\\officecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\controllers\\officecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\interfaces\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\interfaces\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\interfaces\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\interfaces\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\entities\\securityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\entities\\securityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\dto\\officedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\dto\\officedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\visitormanagementsystem\\visitormanagementsystem\\visitormanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\visitormanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IManager.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Interfaces\\IManager.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IManager.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Interfaces\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\ManagerService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Services\\ManagerService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\ManagerService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Services\\ManagerService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:07:00.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:07:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfficeService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\OfficeService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Services\\OfficeService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\OfficeService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Services\\OfficeService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:57:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\CosmosDB\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\CosmosDB\\CosmosDbService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\CosmosDB\\CosmosDbService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\CosmosDB\\CosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:05:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\CosmosDB\\ICosmosDbService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\CosmosDB\\ICosmosDbService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\CosmosDB\\ICosmosDbService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\CosmosDB\\ICosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:05:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:09:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "visitorManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T05:47:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\VisitorService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Services\\VisitorService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wDwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:44:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisitorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\VisitorEntity.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Entities\\VisitorEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\VisitorEntity.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Entities\\VisitorEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:52:24.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Program.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:05:31.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VisitorDto.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\VisitorDto.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Dto\\VisitorDto.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\VisitorDto.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Dto\\VisitorDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:52:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IVisitorService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Interfaces\\IVisitorService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IVisitorService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Interfaces\\IVisitorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:53:20.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfficeController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\OfficeController.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Controllers\\OfficeController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\OfficeController.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Controllers\\OfficeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:28.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\ManagerEntity.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Entities\\ManagerEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\ManagerEntity.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Entities\\ManagerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OfficeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\OfficeEntity.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Entities\\OfficeEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\OfficeEntity.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Entities\\OfficeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:53.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\SecurityService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Services\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\SecurityService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Services\\SecurityService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:07:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:51:56.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:58:41.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Services\\EmailSender.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:29:41.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SecurityDto.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\SecurityDto.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Dto\\SecurityDto.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\SecurityDto.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Dto\\SecurityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:59:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\appsettings.json",
+              "RelativeToolTip": "visitorManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T18:25:50.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\ISecurityService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Interfaces\\ISecurityService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\ISecurityService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Interfaces\\ISecurityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:59:43.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Common\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\AutoMapperProfile.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Common\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:08:23.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Common\\Credentials.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Common\\Credentials.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Common\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:08:05.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOfficeService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IOfficeService.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Interfaces\\IOfficeService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Interfaces\\IOfficeService.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Interfaces\\IOfficeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:58:03.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SecurityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\SecurityEntity.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Entities\\SecurityEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Entities\\SecurityEntity.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Entities\\SecurityEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:59:17.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OfficeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\OfficeDto.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Dto\\OfficeDto.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\OfficeDto.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Dto\\OfficeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:42.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:14.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "visitorManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\visitorManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
+              "RelativeToolTip": "visitorManagementSystem\\visitorManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T15:03:47.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

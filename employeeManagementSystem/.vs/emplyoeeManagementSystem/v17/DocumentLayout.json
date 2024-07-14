@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\servicefilters\\buildemployeefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\servicefilters\\buildemployeefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\controllers\\employeebasicdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\controllers\\employeebasicdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\controllers\\employeeadditionaldetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\controllers\\employeeadditionaldetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\services\\employeebasicdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\services\\employeebasicdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\entities\\employeebasicdetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\entities\\employeebasicdetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\common\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\common\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\interfaces\\iemployeebasicdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\interfaces\\iemployeebasicdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|c:\\users\\ksudh\\source\\repos\\emplyoeemanagementsystem\\emplyoeemanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C26F30E0-3D8D-4B55-9368-B05D624E82D7}|emplyoeeManagementSystem\\employeeManagementSystem.csproj|solutionrelative:emplyoeemanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T20:04:17.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Common\\Credentials.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Common\\Credentials.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Common\\Credentials.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:03:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeBasicDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Interfaces\\IEmployeeBasicDetailService.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Interfaces\\IEmployeeBasicDetailService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Interfaces\\IEmployeeBasicDetailService.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Interfaces\\IEmployeeBasicDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:00:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBasicDetailEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Entities\\EmployeeBasicDetailEntity.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Entities\\EmployeeBasicDetailEntity.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Entities\\EmployeeBasicDetailEntity.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Entities\\EmployeeBasicDetailEntity.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:43:33.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildEmployeeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\ServiceFilters\\BuildEmployeeFilter.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\ServiceFilters\\BuildEmployeeFilter.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\ServiceFilters\\BuildEmployeeFilter.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\ServiceFilters\\BuildEmployeeFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:25:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Common\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Common\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Common\\HttpClientHelper.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Common\\HttpClientHelper.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:56:47.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeBasicDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Services\\EmployeeBasicDetailService.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Services\\EmployeeBasicDetailService.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Services\\EmployeeBasicDetailService.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Services\\EmployeeBasicDetailService.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:34:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBasicDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Controllers\\EmployeeBasicDetailController.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Controllers\\EmployeeBasicDetailController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Controllers\\EmployeeBasicDetailController.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Controllers\\EmployeeBasicDetailController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:19:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeAdditionalDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Controllers\\EmployeeAdditionalDetailController.cs",
+              "RelativeDocumentMoniker": "emplyoeeManagementSystem\\Controllers\\EmployeeAdditionalDetailController.cs",
+              "ToolTip": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\Controllers\\EmployeeAdditionalDetailController.cs",
+              "RelativeToolTip": "emplyoeeManagementSystem\\Controllers\\EmployeeAdditionalDetailController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:29:23.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
