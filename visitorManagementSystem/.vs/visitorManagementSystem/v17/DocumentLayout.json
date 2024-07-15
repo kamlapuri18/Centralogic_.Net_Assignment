@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|d:\\github\\centralogic_.net_assignment\\visitormanagementsystem\\visitormanagementsystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2407CD-0532-4F79-889D-243F6748D13C}|visitorManagementSystem\\visitorManagementSystem.csproj|solutionrelative:visitormanagementsystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerDto.cs",
+              "DocumentMoniker": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "RelativeDocumentMoniker": "visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "ToolTip": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "RelativeToolTip": "visitorManagementSystem\\Dto\\ManagerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:23:37.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
