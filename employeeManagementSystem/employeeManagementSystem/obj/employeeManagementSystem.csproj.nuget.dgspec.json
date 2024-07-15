@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj": {}
+    "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj": {
+    "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj",
+        "projectUniqueName": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj",
         "projectName": "employeeManagementSystem",
-        "projectPath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj",
+        "projectPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj",
         "packagesPath": "C:\\Users\\ksudh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\obj\\",
+        "outputPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksudh\\AppData\\Roaming\\NuGet\\NuGet.Config",

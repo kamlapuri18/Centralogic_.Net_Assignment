@@ -2501,11 +2501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj",
+      "projectUniqueName": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj",
       "projectName": "employeeManagementSystem",
-      "projectPath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj",
+      "projectPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj",
       "packagesPath": "C:\\Users\\ksudh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\obj\\",
+      "outputPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksudh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2583,5 +2583,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

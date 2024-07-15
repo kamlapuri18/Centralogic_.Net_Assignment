@@ -1722,11 +1722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
+      "projectUniqueName": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
       "projectName": "visitorManagementSystem",
-      "projectPath": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
+      "projectPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
       "packagesPath": "C:\\Users\\ksudh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\obj\\",
+      "outputPath": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksudh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -65,7 +65,12 @@ namespace visitorManagementSystem.CosmosDB
             var response = _container.GetItemLinqQueryable<VisitorEntity>(true).Where(a => a.UId == uId && a.Active && !a.Archived).FirstOrDefault();
             return response;
         }
-        
+        public async Task<List<VisitorEntity>> GetAllVisitor()
+        {
+            var response = _container.GetItemLinqQueryable<VisitorEntity>(true).Where(q => q.Active == true && q.Archived == false && q.DocumentType == "visitor").ToList();
+            return response;
+        }
+
 
     }
 }

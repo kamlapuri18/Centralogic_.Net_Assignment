@@ -108,6 +108,49 @@ namespace visitorManagementSystem.Services
             visitor.Active = false;
             return "Visitor Deleted";
         }
+        public async Task<List<VisitorDto>> GetAllVisitor()
+        {
+            var visitors = await _cosmosDbService.GetAllVisitor();
+            var visitorModels = new List<VisitorDto>();
+            foreach (var visitor in visitors)
+            {
+                var visitorModel = new VisitorDto();
+                visitorModel.UId = visitor.UId;
+                visitorModel.Name = visitor.Name;
+                visitorModel.Email = visitor.Email;
+                visitorModel.PhoneNumber = visitor.PhoneNumber;
+                visitorModel.Purpose = visitor.Purpose;
+                visitorModel.CompanyName = visitor.CompanyName;
+                visitorModel.PassStatus = visitor.PassStatus;
+                visitorModel.Address = visitor.Address;
+
+                visitorModels.Add(visitorModel);
+            }
+            return visitorModels;
+        }
+        public async Task<List<VisitorDto>> GetVisitorByStatus(string passStatus)
+        {
+            try
+            {
+                bool status = bool.Parse(passStatus);
+                var allVisitors = await GetAllVisitor();
+                if (allVisitors == null)
+                {
+                    return new List<VisitorDto>();
+                }
+
+                var response = allVisitors.Where(a => a.PassStatus == status).ToList();
+                return response;
+            }
+            catch (FormatException)
+            {
+                throw new ArgumentException("Invalid passStatus value. It must be 'true' or 'false'.");
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error in GetVisitorByStatus", ex);
+            }
+        }
 
     }
 }

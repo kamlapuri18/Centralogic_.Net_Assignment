@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wtpAF/KUtk4=",
+  "dgSpecHash": "0I4Ner70te4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ksudh\\source\\repos\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
+  "projectFilePath": "D:\\GitHub\\Centralogic_.Net_Assignment\\visitorManagementSystem\\visitorManagementSystem\\visitorManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ksudh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ksudh\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",

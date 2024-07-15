@@ -58,6 +58,18 @@ namespace visitorManagementSystem.Controllers
         {
             return await _securityService.AddSecurity(securityDto);
         }
+        [HttpGet]
+        public async Task<List<VisitorDto>> GetAllVisitor()
+        {
+            return await _visitorService.GetAllVisitor();
+        }
 
+
+        [HttpGet]
+        public async Task<IActionResult> GetVisitorByStatus(string passStatus)
+        {
+            var response = await _visitorService.GetVisitorByStatus(passStatus);
+            return Ok(response);
+        }
     }
 }

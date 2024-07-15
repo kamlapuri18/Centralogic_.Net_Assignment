@@ -14,6 +14,7 @@ namespace visitorManagementSystem.CosmosDB
         Task<VisitorEntity> AddVisitor(VisitorEntity visitor);
         Task ReplaceAsync(dynamic entity);
         Task<VisitorEntity> GetVisitorByUId(string uId);
+        Task<List<VisitorEntity>> GetAllVisitor();
     }
 }
 

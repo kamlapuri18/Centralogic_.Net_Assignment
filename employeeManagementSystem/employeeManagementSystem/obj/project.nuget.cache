@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oh/o+ld8DU8=",
+  "dgSpecHash": "8BusIQWucwQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ksudh\\source\\repos\\emplyoeeManagementSystem\\emplyoeeManagementSystem\\employeeManagementSystem.csproj",
+  "projectFilePath": "D:\\GitHub\\Centralogic_.Net_Assignment\\employeeManagementSystem\\employeeManagementSystem\\employeeManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ksudh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ksudh\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
@@ -53,5 +53,12 @@
     "C:\\Users\\ksudh\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\ksudh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
