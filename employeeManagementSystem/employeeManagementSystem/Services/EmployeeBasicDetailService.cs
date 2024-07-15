@@ -143,7 +143,7 @@ namespace employeeManagementSystem.Services
         public async Task<List<EmployeeBasicDetailDTO>> GetAllEmployeeByMakeGetRequest(string employeeId)
         {
                 var url = $"{Credentials.EmployeeUrl}/{Credentials.GetEmployeeEndpoint}/{employeeId}";
-                var responseObj = await HttpClientHelper.MakeGetRequest(url);
+                var responseObj = await HttpClientHelper.MakeGetRequest(url,Credentials.GetEmployeeEndpoint);
                 var employeeBasicDetailDTO = JsonConvert.DeserializeObject<List<EmployeeBasicDetailDTO>>(responseObj);
                 return employeeBasicDetailDTO;
         }
